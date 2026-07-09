@@ -1,1 +1,81 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DD HERTY - Organic Skincare & Hibiscus from Ghana</title>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; font-family: Arial, sans-serif; }
+    body { line-height:1.6; color:#333; }
+    header { background: linear-gradient(135deg, #2d5016, #8B4513); color:white; padding:60px 20px; text-align:center; }
+    header h1 { font-size:2.5em; margin-bottom:10px; }
+    header p { font-size:1.2em; }
+    .btn { background:#D2691E; color:white; padding:12px 25px; text-decoration:none; border-radius:5px; display:inline-block; margin-top:15px; }
+    section { padding:50px 20px; max-width:1000px; margin:auto; }
+    .products { display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:20px; }
+    .product { border:1px solid #ddd; padding:20px; border-radius:10px; text-align:center; }
+    .impact { background:#f4f4f4; }
+    .impact-grid { display:grid; grid-template-columns:repeat(3, 1fr); gap:20px; text-align:center; }
+    footer { background:#2d5016; color:white; text-align:center; padding:30px 20px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>DD HERTY</h1>
+    <p>Organic Skincare & Hibiscus Beverages from Ghana</p>
+    <p>Empowering 200+ Women Farmers. Healing Skin. Healing the Planet.</p>
+    <a href="https://wa.me/233596570791" class="btn">Order on WhatsApp</a>
+  </header>
+
+  <section>
+    <h2>About DD HERTY</h2>
+    <p>DD HERTY is a Ghanaian women-led company transforming organic hibiscus, shea butter, and black soap into premium skincare and beverages. 
+    We partner directly with 200+ rural women farmers to provide fair income while promoting sustainable, climate-smart farming. 
+    Our mission: Bring the power of African botanicals to the world.</p>
+  </section>
+
+  <section class="products">
+    <h2 style="grid-column:1/-1; text-align:center;">Our Products</h2>
+    <div class="product">
+      <h3>Hibiscus Zobo Drink</h3>
+      <p>Organic, caffeine-free, rich in antioxidants. Perfect for wellness.</p>
+    </div>
+    <div class="product">
+      <h3>Raw Shea Butter</h3>
+      <p>Unrefined, ethically sourced. For skin and hair nourishment.</p>
+    </div>
+    <div class="product">
+      <h3>African Black Soap</h3>
+      <p>Handmade with plantain peels and shea. Natural deep cleanser.</p>
+    </div>
+    <div class="product">
+      <h3>Dried Hibiscus Tea</h3>
+      <p>Premium organic calyxes for export and tea lovers.</p>
+    </div>
+  </section>
+
+  <section class="impact">
+    <h2 style="text-align:center;">Our Impact</h2>
+    <div class="impact-grid">
+      <div><h3>200+</h3><p>Women Farmers Supported</p></div>
+      <div><h3>100%</h3><p>Organic & Chemical-Free</p></div>
+      <div><h3>Made in</h3><p>Ghana 🇬🇭</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p><b>WhatsApp:</b> +233596570691</p>
+    <p><b>Email:</b> info@ddherty.com</p>
+    <p><b>Location:</b> Nsawam, Easthern Region Region, Ghana</p>
+    <a href="https://wa.me/233596570791" class="btn">Chat With Us</a>
+  </section>
+
+  <footer>
+    <p>© 2026 DD HERTY. All Rights Reserved. | Organic. Ethical. African.</p>
+  </footer>
+
+</body>
+</html>

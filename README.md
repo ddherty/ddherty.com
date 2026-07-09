@@ -1,22 +1,12 @@
-<section style="padding: 20px; text-align: center;">
-  <h2>Our Products</h2>
 
-  <div style="margin: 30px 0; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
-    <div style="font-size: 60px;">🧴</div>
-    <h3>Ghanaian Shea Butter</h3>
-    <p>100% Pure & Unrefined. For smooth, glowing skin.</p>
-    <a href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">Order on WhatsApp</a>
-  </div>href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">Order on WhatsApp</a>
-  </div>
-
-  <div style="margin: 30px 0; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
-    <div style="font-size: 60px;">🥤</div>
+<a href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">Order on WhatsApp</a>
+  </div>href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-rauo</div>
     <h3>Hibiscus Beverages</h3>
     <p>Refreshing, natural sobolo. Very Ghanaian.</p>
     <a href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">Order on WhatsApp</a>
   </div>
 </section>
-# DD HERTY
+DD HERTY
 **VERY ORGANIC. VERY NATURAL. VERY GHANAIAN**
 
 We sell Pure Ghanaian Shea Butter and Natural Zobo Drink.

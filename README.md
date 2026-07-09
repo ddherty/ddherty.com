@@ -1,23 +1,11 @@
+# DD HERTY
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DD HERTY - Organic Skincare & Hibiscus from Ghana</title>
-  <style>
-    * { margin:0; padding:0; box-sizing:border-box; font-family: Arial, sans-serif; }
-    body { line-height:1.6; color:#333; }
-    header { background: linear-gradient(135deg, #2d5016, #8B4513); color:white; padding:60px 20px; text-align:center; }
-    header h1 { font-size:2.5em; margin-bottom:10px; }
-    header p { font-size:1.2em; }
-    .btn { background:#D2691E; color:white; padding:12px 25px; text-decoration:none; border-radius:5px; display:inline-block; margin-top:15px; }
-    section { padding:50px 20px; max-width:1000px; margin:auto; }
-    .products { display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:20px; }
-    .product { border:1px solid #ddd; padding:20px; border-radius:10px; text-align:center; }
-    .impact { background:#f4f4f4; }
-    .impact-grid { display:grid; grid-template-columns:repeat(3, 1fr); gap:20px; text-align:center; }
-    footer { background:#2d5016; color:white; text-align:center; padding:30px 20px; }
+**VERY ORGANIC. VERY NATURAL. VERY GHANAIAN**
+
+We sell Pure Ghanaian Shea Butter and Natural Zobo Drink.
+Order via WhatsApp: [233596570791]
+
+Website: www.ddherty.com
   </style>
 </head>
 <body>

@@ -1,4 +1,5 @@
-
+Official website for DD HERTY - Ghanaian organic skincare and hibiscus beverages. 
+Women-led business supporting 200+ farmers. Products: Zobo, Shea Butter, Hibiscus Tea.
 DD HERTY
 **VERY ORGANIC. VERY NATURAL. VERY GHANAIAN**
 

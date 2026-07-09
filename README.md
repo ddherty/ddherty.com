@@ -1,9 +1,4 @@
 
-    <h3>Hibiscus Beverages</h3>
-    <p>Refreshing, natural sobolo. Very Ghanaian.</p>
-    <a href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">Order on WhatsApp</a>
-  </div>
-</section>
 DD HERTY
 **VERY ORGANIC. VERY NATURAL. VERY GHANAIAN**
 

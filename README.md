@@ -7,11 +7,52 @@
     VERY ORGANIC, VERY NATURAL, VERY GHANAIAN
   </p>
 </header>
-  <section style="padding: 20px; text-align: center;">
-  <h2>Our Products</h2>
-
-  <div style="margin: 30px 0; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
-    <div style="font-size: 60px;">🧴</div>
+  <head>
+    <meta charset="UTF-8">
+    <title>DD HERTY - Organic Shea Butter & Zobo</title>
+    <style>
+      body {
+        font-family: 'Georgia', serif;
+        background: linear-gradient(to bottom, #FAF8F3, #E8F0E3);
+        color: #333333;
+        text-align: center;
+        margin: 0;
+        padding: 20px;
+      }
+      h1 {
+        color: #2D5016;
+        font-size: 36px;
+        letter-spacing: 3px;
+      }
+      h2 {
+        color: #2D5016;
+        font-size: 14px;
+        letter-spacing: 2px;
+        font-weight: 600;
+      }
+      .product {
+        background: white;
+        border: 2px solid #D4AF37;
+        border-radius: 20px;
+        padding: 20px;
+        margin: 20px auto;
+        max-width: 350px;
+        box-shadow: 0 6px 16px rgba(45, 80, 22, 0.1);
+      }
+      .whatsapp-btn {
+        background: #25D366;
+        color: white;
+        padding: 15px 35px;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 17px;
+        display: inline-block;
+        margin: 20px 0;
+        box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
+      }
+    </style>
+</head>
     <h3>Ghanaian Shea Butter</h3>
     <p>100% Pure & Unrefined. For smooth, glowing skin.</p>
     <a href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">Order on WhatsApp</a>

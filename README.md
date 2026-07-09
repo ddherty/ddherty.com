@@ -11,46 +11,14 @@
     <meta charset="UTF-8">
     <title>DD HERTY - Organic Shea Butter & Zobo</title>
     <style>
-      body {
-        font-family: 'Georgia', serif;
-        background: linear-gradient(to bottom, #FAF8F3, #E8F0E3);
-        color: #333333;
-        text-align: center;
-        margin: 0;
-        padding: 20px;
-      }
-      h1 {
-        color: #2D5016;
-        font-size: 36px;
-        letter-spacing: 3px;
-      }
-      h2 {
-        color: #2D5016;
-        font-size: 14px;
-        letter-spacing: 2px;
-        font-weight: 600;
-      }
-      .product {
-        background: white;
-        border: 2px solid #D4AF37;
-        border-radius: 20px;
-        padding: 20px;
-        margin: 20px auto;
-        max-width: 350px;
-        box-shadow: 0 6px 16px rgba(45, 80, 22, 0.1);
-      }
-      .whatsapp-btn {
-        background: #25D366;
-        color: white;
-        padding: 15px 35px;
-        border-radius: 50px;
-        text-decoration: none;
-        font-weight: bold;
-        font-size: 17px;
-        display: inline-block;
-        margin: 20px 0;
-        box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
-      }
+      # DD HERTY
+
+**VERY ORGANIC. VERY NATURAL. VERY GHANAIAN**
+
+We sell Pure Ghanaian Shea Butter and Natural Zobo Drink.
+Order via WhatsApp: [your number]
+
+Website: www.ddherty.com
     </style>
 </head>
     <h3>Ghanaian Shea Butter</h3>

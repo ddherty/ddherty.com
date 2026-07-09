@@ -5,27 +5,15 @@
   <h1 style="margin: 10px 0;">DD HERTY</h1>
   <p style="font-size: 18px; font-weight: bold; color: #2d5016; letter-spacing: 2px;">
     VERY ORGANIC, VERY NATURAL, VERY GHANAIAN
-  </p>
-</header>
-  <head>
-    <meta charset="UTF-8">
-    <title>DD HERTY - Organic Shea Butter & Zobo</title>
-    <style>
-      # DD HERTY
 
 **VERY ORGANIC. VERY NATURAL. VERY GHANAIAN**
 
+Official website for DD HERTY - Ghanaian organic skincare and hibiscus beverages.  Women-led business supporting 200+ farmers. Products: Zobo, Shea Butter, Hibiscus Tea.
+</style>
 We sell Pure Ghanaian Shea Butter and Natural Zobo Drink.
 Order via WhatsApp: [your number]
-
-Website: www.ddherty.com
-    </style>
-</head>
     <h3>Ghanaian Shea Butter</h3>
     <p>100% Pure & Unrefined. For smooth, glowing skin.</p>
-    <a href="https://wa.me/233596570791" style="background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">Order on WhatsApp</a>
-  </div>
-
   <div style="margin: 30px 0; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
     <div style="font-size: 60px;">🥤</div>
     <h3>Hibiscus Beverages</h3>
@@ -34,7 +22,6 @@ Website: www.ddherty.com
   </div>
 </section>
 <hr>
-Official website for DD HERTY - Ghanaian organic skincare and hibiscus beverages.  Women-led business supporting 200+ farmers. Products: Zobo, Shea Butter, Hibiscus Tea.
 </style>
   <img src="shea-butter.jpg" alt="Organic Shea Butter" width="300">
   <h3>Organic Shea Butter</h3>

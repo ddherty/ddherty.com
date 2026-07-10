@@ -46,10 +46,6 @@ Website: www.ddherty.com
       <p>Unrefined, ethically sourced. For skin and hair nourishment.</p>
     </div>
     <div class="product">
-      <h3>African Black Soap</h3>
-      <p>Handmade with plantain peels and shea. Natural deep cleanser.</p>
-    </div>
-    <div class="product">
       <h3>Dried Hibiscus Tea</h3>
       <p>Premium organic calyxes for export and tea lovers.</p>
     </div>

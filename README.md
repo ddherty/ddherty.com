@@ -18,7 +18,7 @@ Order via WhatsApp: [233596570791]
 
 Website: www.ddherty.com
   
-</head>
+
 <body>
 
   <header>
@@ -77,4 +77,4 @@ Website: www.ddherty.com
   </footer>
 
 </body>
-</html>
+

@@ -1,5 +1,11 @@
 <header>
-  
+  style="text-align: center; padding: 20px;">
+  <a href="/">
+    <img src="assets/dd-herty-logo.png" 
+         alt="DD Herty Enterprise - Very Organic Very Natural Very Ghanaan" 
+         style="max-width: 220px; height: auto;">
+  </a>
+</header>
   <h1>DD HERTY</h1>
   <h2>VERY ORGANIC. VERY NATURAL. VERY GHANAIAN</h2>
 </header>

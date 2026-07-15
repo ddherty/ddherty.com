@@ -1,5 +1,5 @@
 <header>
-  <img src="logo.jpg" alt="Logo.jpg">
+  
   <h1>DD HERTY</h1>
   <h2>VERY ORGANIC. VERY NATURAL. VERY GHANAIAN</h2>
 </header>
